@@ -1,19 +1,19 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Let's",
-      "description": "this is description 1"
+      "id": 123,
+      "name": "Pranay",
+      "qualification": "b.tech"
     },
     {
-      "id": 2,
-      "title": "Check",
-      "description": "this is description 2"
+      "id": 456,
+      "name": "Praveen",
+      "qualification": "b.tech"
     },
     {
-      "id": 3,
+      "id": 789,
       "title": "Again",
-      "description": "this is description 3"
+      "qualification": "b.tech"
     }
   ]
 }
